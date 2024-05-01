@@ -1,9 +1,9 @@
 module.exports = {
     app: {
-        token: 'xxx',
-        playing: 'by Zerio ❤️',
+        token: 'MTIyODk1NzY0NzQ5NjAyNDE4NA.GuJ_zD.IpGUjfPiZpbPg9ThVaLdM37CFlgaV5xS1_aE5w',
+        playing: 'Ace On Top',
         global: true,
-        guild: 'xxx',
+        guild: '',
         ExtraMessages: false,
         loopMessage: false,
 
