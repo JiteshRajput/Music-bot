@@ -1,6 +1,6 @@
 module.exports = {
     app: {
-        token: 'MTIyODk1NzY0NzQ5NjAyNDE4NA.GuJ_zD.IpGUjfPiZpbPg9ThVaLdM37CFlgaV5xS1_aE5w',
+        token: '',
         playing: 'Ace On Top',
         global: true,
         guild: '',
